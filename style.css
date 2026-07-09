@@ -5,7 +5,7 @@
     font-family: 'segoe UI',Tahoma, Geneva, Verdana, sans-serif;
 }
 body{
-    background-color: #ffff;
+    background:linear-gradient(135deg, #F7FCFF 0%, #E6F9FF 50%, #D8F3FF 100%);
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -34,7 +34,7 @@ header p{
 
 }
 .card{
-    background: #ffffff;
+    background: #fff;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 
